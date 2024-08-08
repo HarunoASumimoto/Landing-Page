@@ -1,0 +1,28 @@
+img {
+    border-radius: 10%;
+  }
+.col{
+    padding: 50px;
+}
+
+header {
+    color:#ffecac;
+    padding: 30px;
+}
+
+main {
+    color: #ffecac;
+}
+
+.footer {
+    padding:10px;
+}
+
+.block1 {
+    color: rgb(161, 206, 228);
+    border-style:inset;
+    border-color: #ffecac;
+    border-radius: 25px;
+}
+
+
